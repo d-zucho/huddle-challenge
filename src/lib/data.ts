@@ -28,3 +28,12 @@ export const CardFeatures: Feature[] = [
       "It takes no time at all to integrate Huddle with your app's authentication solution. This means, once signed in to your app, your users can start chatting immediately.",
   },
 ]
+
+export const NavLinks: string[] = [
+  'About Us',
+  'What We Do',
+  'FAQ',
+  'Career',
+  'Blog',
+  'Contact Us',
+]
