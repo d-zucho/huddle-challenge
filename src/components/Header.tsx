@@ -2,7 +2,7 @@ import Logo from '../assets/images/logo.svg'
 
 const Header = () => {
   return (
-    <header className='py-7 px-4 flex justify-between'>
+    <header className='py-7 px-4 flex justify-between bg-pale-cyan'>
       <div>
         <img src={Logo} alt='logo' className='w-32' />
       </div>

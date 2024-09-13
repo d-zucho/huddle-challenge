@@ -3,7 +3,7 @@ import MobileHeroImg from '../assets/images/illustration-mockups.svg'
 
 const Hero = () => {
   return (
-    <div className='text-center md:text-left px-8 py-12 md:px-20 w-full relative z-0 md:flex md:gap-12 md:items-center md:justify-between'>
+    <div className='text-center md:text-left px-8 py-12 md:px-20 w-full relative z-0 md:flex md:gap-12 md:items-center md:justify-between bg-pale-cyan'>
       <div
         className='w-full absolute  inset-0 -z-10'
         style={{
